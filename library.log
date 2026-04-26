@@ -1,0 +1,6 @@
+Apr 26, 2026 3:55:43 PM library.services.Library checkoutBook
+INFO: Patron: Alice (ID: 1) Contact: alice@example.com borrowed Effective Java by Joshua Bloch (2018)
+Apr 26, 2026 3:55:43 PM library.services.Library returnBook
+INFO: Patron: Alice (ID: 1) Contact: alice@example.com returned Effective Java by Joshua Bloch (2018)
+Apr 26, 2026 3:55:43 PM library.services.Library returnBook
+INFO: Notification sent to Patron: Bob (ID: 2) Contact: bob@example.com for Effective Java by Joshua Bloch (2018)
