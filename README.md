@@ -29,6 +29,8 @@ This project demonstrates Object-Oriented Programming (OOP), SOLID principles, a
 2. Run the program:
    java -cp bin library.LibraryMain
 
+or you can directly click on LibraryMain.java and click run
+
 ## Design Patterns
 - **Observer Pattern**: Reservation system notifies patrons when a book becomes available.
 - **Strategy Pattern**: Recommendation system allows different algorithms for suggesting books.
