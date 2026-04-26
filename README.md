@@ -35,5 +35,8 @@ or you can directly click on LibraryMain.java and click run
 - **Observer Pattern**: Reservation system notifies patrons when a book becomes available.
 - **Strategy Pattern**: Recommendation system allows different algorithms for suggesting books.
 
+## Use Case Diagram
+![alt text](UseCaseDiagram.png)
+
 ## Logging
 Uses `java.util.logging` to log events like checkout, return, and notifications.
