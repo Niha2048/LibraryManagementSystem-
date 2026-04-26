@@ -34,7 +34,7 @@ This project demonstrates Object-Oriented Programming (OOP), SOLID principles, a
 - **Strategy Pattern**: Recommendation system allows different algorithms for suggesting books.
 
 ## UseCase Diagram
-- <img width="1570" height="1692" alt="UseCaseDiagram" src="https://github.com/user-attachments/assets/5da59907-1852-40f3-bc11-044355db20d5" />
+<img width="1570" height="1692" alt="UseCaseDiagram" src="https://github.com/user-attachments/assets/5da59907-1852-40f3-bc11-044355db20d5" />
 
 
 ## Logging
